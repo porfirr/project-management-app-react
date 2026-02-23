@@ -42,5 +42,3 @@ This project focuses on advanced React patterns and state management:
 3. Run the application:
     ```bash
     npm run dev
-
-
