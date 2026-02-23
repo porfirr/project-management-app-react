@@ -4,7 +4,7 @@ A robust project management tool built with React and Tailwind CSS. This applica
 
 ## Demo
 
-![Project Manager Demo](./assets/project-demo.gif)
+![project-demo](https://github.com/user-attachments/assets/8851dedd-81ae-4a44-a866-42deddcf0d38)
 
 ## Features
 
@@ -33,7 +33,7 @@ This project focuses on advanced React patterns and state management:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/porfirr/project-management-app-react.git](https://github.com/porfirr/project-management-app-react.git)
+   git clone https://github.com/porfirr/project-management-app-react.git
 
 2. Install dependencies:
     ```bash
